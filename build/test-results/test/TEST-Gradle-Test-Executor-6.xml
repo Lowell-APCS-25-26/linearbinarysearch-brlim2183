@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Gradle Test Executor 2" tests="1" skipped="0" failures="1" errors="0" timestamp="2026-03-20T17:01:36.710Z" hostname="codespaces-48e409" time="0.017">
+<testsuite name="Gradle Test Executor 6" tests="1" skipped="0" failures="1" errors="0" timestamp="2026-03-23T07:43:21.752Z" hostname="codespaces-48e409" time="0.01">
   <properties/>
-  <testcase name="failed to execute tests" classname="Gradle Test Executor 2" time="0.017">
-    <failure message="org.gradle.api.internal.tasks.testing.TestSuiteExecutionException: Could not start Gradle Test Executor 2: Failed to load JUnit Platform.  Please ensure that all JUnit Platform dependencies are available on the test's runtime classpath, including the JUnit Platform launcher." type="org.gradle.api.internal.tasks.testing.TestSuiteExecutionException">org.gradle.api.internal.tasks.testing.TestSuiteExecutionException: Could not start Gradle Test Executor 2: Failed to load JUnit Platform.  Please ensure that all JUnit Platform dependencies are available on the test's runtime classpath, including the JUnit Platform launcher.
+  <testcase name="failed to execute tests" classname="Gradle Test Executor 6" time="0.01">
+    <failure message="org.gradle.api.internal.tasks.testing.TestSuiteExecutionException: Could not start Gradle Test Executor 6: Failed to load JUnit Platform.  Please ensure that all JUnit Platform dependencies are available on the test's runtime classpath, including the JUnit Platform launcher." type="org.gradle.api.internal.tasks.testing.TestSuiteExecutionException">org.gradle.api.internal.tasks.testing.TestSuiteExecutionException: Could not start Gradle Test Executor 6: Failed to load JUnit Platform.  Please ensure that all JUnit Platform dependencies are available on the test's runtime classpath, including the JUnit Platform launcher.
 	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.startProcessing(SuiteTestClassProcessor.java:46)
 	at java.base@21.0.10/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base@21.0.10/java.lang.reflect.Method.invoke(Method.java:580)
