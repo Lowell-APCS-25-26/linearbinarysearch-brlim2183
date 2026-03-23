@@ -37,6 +37,8 @@ public class LinearBinarySearchTester {
             new Item(18871, 69), 
             new Item(19967, 45)
         }; 
+    
+
         Sketch test = new Sketch();
         assertEquals(-1, test.linearSearch(tests[0]));
         assertEquals(-1, test.linearSearch(tests[1]));
@@ -45,6 +47,7 @@ public class LinearBinarySearchTester {
         assertEquals(82, test.linearSearch(tests[4]));
         assertEquals(45, test.linearSearch(tests[5]));
         assertEquals(-1, test.linearSearch(tests[6]));
+
    }
 
    @Test
